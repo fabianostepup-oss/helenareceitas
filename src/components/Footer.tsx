@@ -37,7 +37,7 @@ const Footer = () => {
             </a>
             
              <a 
-              href="https://www.instagram.com/helenaswistakoficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
+              href="https://www.instagram.com/helenaswistakoficial" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-3 text-white hover:text-warm-orange transition-colors"
