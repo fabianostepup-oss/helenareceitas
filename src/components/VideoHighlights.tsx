@@ -8,21 +8,21 @@ const VideoHighlights = () => {
       title: "SEGREDO DE VÓ | OS MELHORES BOLINHOS DE CHUVA",
       description: "Dica de vó infalível: com meia colher de vinagre e o passo a passo certo, seus bolinhos de chuva ficam fofinhos e perfeitos para o café da tarde.",
       views: "5,5M",
-      thumbnail: "http://theartofconquest.online/wp-content/uploads/2025/08/BOLINHIO-DE-CHUVA.png",
+      thumbnail: "https://i.postimg.cc/SNYBb9yf/bolinho-de-chuva.png",
       url: "https://www.youtube.com/watch?v=KYQ6MJM0WwM&t=129s&ab_channel=HelenaReceitas"
     },
     {
       title: "COMO FAZER PEIXE ASSADO NO FORNO COM FAROFA E BATATAS - BEM ÚMIDO E SABOROSO!",
       description: "Aprenda a fazer tilápia assada no forno, recheada com farofa e batatas: uma receita suculenta, temperada e deliciosa que vai encantar a todos!",
       views: "551K",
-      thumbnail: "http://theartofconquest.online/wp-content/uploads/2025/08/PEIXE-ASSADO.png", 
+      thumbnail: "https://i.postimg.cc/5tmckMx1/helena-receitas.png", 
       url: "https://www.youtube.com/watch?v=MiSz0FplOwU&ab_channel=HelenaReceitas"
     },
     {
       title: "BOLO DE MAIZENA COM COCO - SEM GLÚTEN E SEM LEITE",
       description: "Aprenda a fazer um bolo de Maizena com coco fofinho e sem glúten, com massa macia e calda cremosa, perfeito para uma sobremesa leve e saborosa.",
       views: "833K",
-      thumbnail: "http://theartofconquest.online/wp-content/uploads/2025/08/BOLO-DE-COCO.png",
+      thumbnail: "https://i.postimg.cc/DwqR8K4J/bolo-de-coco-1.png",
       url: "https://www.youtube.com/watch?v=Bowgbe2O37k&ab_channel=HelenaReceitas"
     }
   ];

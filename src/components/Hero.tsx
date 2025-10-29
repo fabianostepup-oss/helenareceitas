@@ -31,9 +31,9 @@ const Hero = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button 
-              variant="hero" 
+              variant="default" 
               size="lg" 
-              className="text-lg px-8 py-6 h-auto"
+              className="bg-[#b4b243] hover:bg-[#b4b243] text-lg px-8 py-6 h-auto"
               asChild
             >
               <a 
@@ -48,9 +48,9 @@ const Hero = () => {
             </Button>
             
             <Button 
-              variant="youtube" 
+              variant="default" 
               size="lg" 
-              className="text-lg px-8 py-6 h-auto"
+              className="bg-[#dd5a1a] hover:bg-[#f7aa52] text-lg px-8 py-6 h-auto"
               asChild
             >
               <a 

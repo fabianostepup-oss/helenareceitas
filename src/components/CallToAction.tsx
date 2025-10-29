@@ -21,9 +21,9 @@ const CallToAction = () => {
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <Button 
-              variant="youtube" 
+              variant="default" 
               size="lg" 
-              className="text-xl px-10 py-8 h-auto shadow-2xl"
+              className="bg-[#dd5a1a] hover:[f7aa52] text-xl px-10 py-8 h-auto shadow-2xl"
               asChild
             >
               <a 
