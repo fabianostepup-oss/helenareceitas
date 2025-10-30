@@ -23,7 +23,7 @@ const CallToAction = () => {
             <Button 
               variant="default" 
               size="lg" 
-              className="bg-[#dd5a1a] hover:[f7aa52] text-xl px-10 py-8 h-auto shadow-2xl"
+              className="bg-[#dd5a1a] hover:bg-[#f7aa52] text-xl px-10 py-8 h-auto shadow-2xl"
               asChild
             >
               <a 
@@ -38,9 +38,9 @@ const CallToAction = () => {
             </Button>
             
             <Button 
-              variant="outline" 
+              variant="default" 
               size="lg" 
-              className="text-xl px-10 py-8 h-auto bg-white/10 border-white/30 text-white hover:bg-white hover:text-warm-orange shadow-2xl"
+              className=" bg-[#b4b243] hover:bg-[#b4b243] text-xl px-10 py-8 h-auto shadow-2xl"
               asChild
             >
               <a 
